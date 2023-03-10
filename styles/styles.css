@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Krona+One&family=Montserrat:wght@100;400;600&display=swap');
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.cabeca{
+    background-color:rgb(255, 0, 0);
+    font-family: 'Montserrat', sans-serif;
+    font-size: 17px;
+    padding: 20px;
+    height: 40px;
+    color: white;
+}
+.filmesimg{
+    display: flex;
+    gap: 70px;
+    align-items: center;
+    padding: 70px;
+}
+body{
+    background-image: url(https://img.freepik.com/vetores-gratis/cortinas-de-cinema-de-teatro-com-ilustracao-vetorial-de-luz-de-foco_1017-38346.jpg?w=1380&t=st=1678381611~exp=1678382211~hmac=6b1a444788dc3901fc3894f182bb13087559d61a237d9edc32e18796d8818ca7);
+}
+.filmesn{
+    color: gold;
+    display: flex;
+    gap: 30px;
+}
+.menu__link{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 25px;
+    color:white;
+    text-decoration: none;
+}
+.tfilmes{
+    padding: 0 0 0 20px;
+    display: flex;
+    gap: 100px;
+}
